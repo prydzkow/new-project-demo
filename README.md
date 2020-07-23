@@ -18,6 +18,3 @@ Read this file through this time completely
 
 ## Second Section - subsection
 Very important message! Do not igonre it!
-
-### New Copyrights
-Copyright by Pawel Rydzkowski and company
