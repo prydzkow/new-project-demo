@@ -12,3 +12,9 @@ Read this file through
 
 ## First Section - subsection
 Very important message! Do not igonre it!
+
+# Second Section
+Read this file through this time completely
+
+## Second Section - subsection
+Very important message! Do not igonre it!
